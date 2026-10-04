@@ -15,7 +15,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/finddrama.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/finddrama.png",
         "apiVersion": 1,
         "fileHash": "sha256-6c9bfbe861c6b14b9a47baca9a6d1e042dfbb860bb42750ab57a059d388bd49a"
     },
@@ -38,7 +38,7 @@
             "Anime",
             "Cartoon"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/kimoi.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/kimoi.png",
         "apiVersion": 1,
         "fileHash": "sha256-186685844fd134436eec21a12c720e480b52a4e4ac03c14d825053daa38d8395"
     },
@@ -62,7 +62,7 @@
             "Anime",
             "OVA"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/kisskh.jpeg",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/kisskh.jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-cdbfaf63585e4f12ec0461b448e82bdf1be5216367c997668ec7ac28a3dc56e7"
     },
@@ -82,7 +82,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/nuno.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuno.png",
         "apiVersion": 1,
         "fileHash": "sha256-9c8a9990860d71a2b20049109d6e3fcf1385e3572cf2eafde502385c0abc94ab"
     },
@@ -102,7 +102,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/reelfren.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
         "fileHash": "sha256-91b4c5ea61711cec1aaaa4b5ac35345a67b618ccb75a35f527767f769badf8d0"
     },
@@ -123,7 +123,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/rulz.jpg",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/rulz.jpg",
         "apiVersion": 1,
         "fileHash": "sha256-101ef11b42ff51d1f38bb6944ff252c2e093a018fe9cd59d1e6810e376e1e2fb"
     },
@@ -143,7 +143,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/screen.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/screen.png",
         "apiVersion": 1,
         "fileHash": "sha256-4171c9f81305d486be775d930654eee6690942e76675b5e80f6fa53bd1db7da0"
     },
@@ -165,7 +165,7 @@
             "TvSeries",
             "Other"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/stremio.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
         "fileHash": "sha256-f4786315eb7d7d26f9812786fff495ee8bc3049c08be67fb89f4d82985b18b9d"
     },
@@ -186,7 +186,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/wap.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wap.png",
         "apiVersion": 1,
         "fileHash": "sha256-2e1f86c10716cd1ff0a163869a067e2decfddceed1f313b32476b5b3cebea432"
     },
@@ -207,7 +207,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-code/main/icons/wood.webp",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wood.webp",
         "apiVersion": 1,
         "fileHash": "sha256-317e3b06009e6f2486b76ae2549c0c84572de3948bdf90d96709815df76de26e"
     }
