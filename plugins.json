@@ -87,6 +87,28 @@
         "fileHash": "sha256-9c8a9990860d71a2b20049109d6e3fcf1385e3572cf2eafde502385c0abc94ab"
     },
     {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NuvioBuild.cs3",
+        "status": 3,
+        "version": 1,
+        "name": "NuvioBuild",
+        "internalName": "NuvioBuild",
+        "authors": [
+            "decodede"
+        ],
+        "description": "Runs Nuvio JavaScript providers on device. Add any repo, toggle providers, paste your own Stremio metadata addon and TMDB keys.",
+        "fileSize": 97494,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuvio.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2d599c109da5cdc5d2b1e46881d93162464cbf6671ffc003be127f81e3e573cb"
+    },
+    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
         "status": 1,
         "version": 1,
