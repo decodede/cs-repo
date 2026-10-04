@@ -96,7 +96,7 @@
             "decodede"
         ],
         "description": "Runs Nuvio JavaScript providers on device. Add any repo, toggle providers, paste your own Stremio metadata addon and TMDB keys.",
-        "fileSize": 97494,
+        "fileSize": 100691,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -106,7 +106,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuvio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2d599c109da5cdc5d2b1e46881d93162464cbf6671ffc003be127f81e3e573cb"
+        "fileHash": "sha256-b47d3ac81c19b6295175db1682c318d3e4bda6e305da047b500aac225181caa3"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
