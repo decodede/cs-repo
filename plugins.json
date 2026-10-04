@@ -96,7 +96,7 @@
             "decodede"
         ],
         "description": "Nuvio streaming providers on device. Add a catalogue addon and a streaming repo.",
-        "fileSize": 105775,
+        "fileSize": 112864,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -106,7 +106,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuvio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4b2114d7132ded5fe09dfdaa3eb2057e34fd76c60b37d006c925765dd59248ba"
+        "fileHash": "sha256-f7ea5eeded3116b8162d53fa2d9880cf03179ae30406485da7807f5b661e136d"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
