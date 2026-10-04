@@ -87,28 +87,6 @@
         "fileHash": "sha256-9c8a9990860d71a2b20049109d6e3fcf1385e3572cf2eafde502385c0abc94ab"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Nuvio.cs3",
-        "status": 3,
-        "version": 1,
-        "name": "Nuvio",
-        "internalName": "Nuvio",
-        "authors": [
-            "decodede"
-        ],
-        "description": "Nuvio streaming providers on device. Add a catalogue addon and a streaming repo.",
-        "fileSize": 112864,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuvio.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-f7ea5eeded3116b8162d53fa2d9880cf03179ae30406485da7807f5b661e136d"
-    },
-    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
         "status": 1,
         "version": 1,
