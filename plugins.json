@@ -222,7 +222,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu, Hindi, English, Tamil, Malayalam movies and web series with every quality",
-        "fileSize": 42826,
+        "fileSize": 46669,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -231,6 +231,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wood.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-317e3b06009e6f2486b76ae2549c0c84572de3948bdf90d96709815df76de26e"
+        "fileHash": "sha256-fdfee5d9075f27bfcd7f7f288b7dd7fdcdb06090b37e9f7226690500fd92b2d2"
     }
 ]
