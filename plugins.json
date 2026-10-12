@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Blasters.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Blasters",
         "internalName": "Blasters",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Tamil movies and dubbed cinema from TamilBlasters",
-        "fileSize": 42811,
+        "fileSize": 43156,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "ta",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9ba677ace4911d6bf3003715baf3b6ab36929393a67f62a09d84f4b3db6cf645"
+        "fileHash": "sha256-1e164bcc1db7f560f9a0fa4b6136ac6e64ade0e51917061ebb827a290e2d66a5"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
