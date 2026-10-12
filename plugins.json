@@ -192,14 +192,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wap.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "Wap",
         "internalName": "Wap",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies, Series and Hollywood Dubbed",
-        "fileSize": 27844,
+        "fileSize": 30924,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -208,7 +208,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wap.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2e1f86c10716cd1ff0a163869a067e2decfddceed1f313b32476b5b3cebea432"
+        "fileHash": "sha256-d87fcc2773da61e34d1c9b81ef7e86a40d9c5c47ed9bb4a5bc8cdbf113051f2a"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
