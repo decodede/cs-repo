@@ -9,7 +9,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Tamil movies and dubbed cinema from TamilBlasters",
-        "fileSize": 46268,
+        "fileSize": 45910,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "ta",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3e189d45067523e62e4540bb0e3c9a37f4443ec5c4594aec3360ee2be5359595"
+        "fileHash": "sha256-5de22880ec9c9de29df1b7689e0d70b1c8c748588148e0d45937516da76c0374"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
