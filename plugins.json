@@ -43,23 +43,22 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "huangdou",
         "internalName": "huangdou",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Huangdou \u2014 AI short drama, AI comic drama, novels and community posts",
-        "fileSize": 63811,
+        "fileSize": 64156,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
-            "TvSeries",
-            "NSFW"
+            "TvSeries"
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangdou.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7c11edda950d1d367ce3af563c785fd8a828bbee79ad287e96f7fe6706df576f"
+        "fileHash": "sha256-3fd4f6ffffc17d9a4d3e8f95c83d758f7ecdc6f0ee6fb77fa25f91cad99fa672"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/kimoitv.cs3",
