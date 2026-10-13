@@ -41,6 +41,27 @@
         "fileHash": "sha256-6c9bfbe861c6b14b9a47baca9a6d1e042dfbb860bb42750ab57a059d388bd49a"
     },
     {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "huangdou",
+        "internalName": "huangdou",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "Huangdou \u2014 AI short drama, AI comic drama, novels and community posts",
+        "fileSize": 63811,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "zh",
+        "tvTypes": [
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://aihuangdou.com/static/web/images/nine/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2640226e671182ac2af905904890409b9f538d9ed109c41e8b6befa635b8e431"
+    },
+    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/kimoitv.cs3",
         "status": 1,
         "version": 1,
