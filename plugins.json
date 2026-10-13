@@ -43,7 +43,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "huangdou",
         "internalName": "huangdou",
         "authors": [
@@ -57,9 +57,9 @@
             "TvSeries",
             "NSFW"
         ],
-        "iconUrl": "https://aihuangdou.com/static/web/images/nine/logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangdou.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2640226e671182ac2af905904890409b9f538d9ed109c41e8b6befa635b8e431"
+        "fileHash": "sha256-7c11edda950d1d367ce3af563c785fd8a828bbee79ad287e96f7fe6706df576f"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/kimoitv.cs3",
