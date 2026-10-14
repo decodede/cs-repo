@@ -45,7 +45,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FilmyFly.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "FilmyFly",
         "internalName": "FilmyFly",
         "authors": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://filmyfly.care/apple-touch-icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3fd74d88f2a287932ee1a729d5abf33d83567f26655fa2b35ad6c03b6ca8979b"
+        "fileHash": "sha256-e2ae91ee21e4ca4e711f2794a9531b0a74d473f0a89e7bdc1c81381c5e5d8a85"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
