@@ -134,7 +134,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "KimoiTV - Hollywood, Korean, Chinese and Japanese movies, dramas and animation with every source, quality and subtitle",
-        "fileSize": 60103,
+        "fileSize": 60105,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/kimoi.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4f2e6344dbd3a6419e6f84b6afb583a54b9dd2681dab0048d38b298e448ada44"
+        "fileHash": "sha256-ae623c6b4277661d8bf7b49609ab15d03e414e41823d7fc759c461481c253eed"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Kisskh.cs3",
