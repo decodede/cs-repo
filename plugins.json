@@ -104,6 +104,27 @@
         "fileHash": "sha256-a4471b6d6e5df5b1e64d81d64ac574acc8b5f4b5d5ecc7318e064fbaacfb66d8"
     },
     {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangguoai.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "huangguoai",
+        "internalName": "huangguoai",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "Huangguoai \u2014 AI short drama, AI comic drama, face-swap and parody series with every episode in one catalogue",
+        "fileSize": 62512,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "zh",
+        "tvTypes": [
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangguoai.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f2ad7b841d83286fd4f9a181c4c7ae95bbc0ad43730ed6f9835ecf4e08b3bb33"
+    },
+    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/kimoitv.cs3",
         "status": 1,
         "version": 1,
