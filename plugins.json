@@ -17,7 +17,7 @@
             "Movie",
             "Anime"
         ],
-        "iconUrl": "https://animerulz.co.in/animerulz-logo.webp",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/animerulz.jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-7a3afdd78c96d1f2b7a694488f73cc79f2da3ae5ab92e9ff8a9c39919983a5cd"
     },
@@ -38,7 +38,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-de4fc6833682bf27bdb84b1c3226fcf645b7bbff0d04fd053345e7c8487e5f4c"
     },
@@ -59,7 +59,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://filmyfly.care/apple-touch-icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/filmfly.jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-1f4364d8ce93699be9022eb2317be1ce659582d3893397913cd7a39acc47b1f2"
     },
