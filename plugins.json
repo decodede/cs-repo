@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "Animerulz",
         "internalName": "Animerulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "AnimeRulz \u2014 anime in Hindi, Telugu, Tamil, English and more, with every server and audio track",
-        "fileSize": 63749,
+        "fileSize": 63750,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://animerulz.co.in/animerulz-logo.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-03284f8476836786854704a67c73a015edd2ef3d724b0d73194068c4b9d71c35"
+        "fileHash": "sha256-1206ce2a7bfeec47b3f3c14b6d05126b289cfe8739ea18f3a94ed9b394d06aee"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Blasters.cs3",
