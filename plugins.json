@@ -52,7 +52,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu movies and web series from FilmyFly",
-        "fileSize": 89200,
+        "fileSize": 89905,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://filmyfly.care/apple-touch-icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ffafbb517969703f82f873e659ddf12232a7a353951bc36ac9b8755e9e884162"
+        "fileHash": "sha256-0b3ea2dfc06f9791d76b395513ff10a9e08f914ac0b74daabc887f3f6f9ec8eb"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
