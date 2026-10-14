@@ -9,7 +9,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "AnimeRulz \u2014 anime in Hindi, Telugu, Tamil, English and more, with every server and audio track",
-        "fileSize": 62844,
+        "fileSize": 63749,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://animerulz.co.in/animerulz-logo.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-801352099c769b2b9518106aa328c35af17ae5c2c5fb874f6a169d7fd8f61a64"
+        "fileHash": "sha256-03284f8476836786854704a67c73a015edd2ef3d724b0d73194068c4b9d71c35"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Blasters.cs3",
