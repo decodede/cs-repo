@@ -7,3 +7,6 @@
 ```
 https://raw.githubusercontent.com/decodede/cs-repo/main/repo.json
 ```
+
+
+![Visitor Count](https://count.getloli.com/get/@komikku-app?theme=capoo-2)
