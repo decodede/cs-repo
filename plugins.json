@@ -125,29 +125,6 @@
         "fileHash": "sha256-4a999cca3daa3a13fa06af919448ff90d06eb72e956ee244b33168ba2ee007d3"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/kimoitv.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "kimoitv",
-        "internalName": "kimoitv",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "KimoiTV - Hollywood, Korean, Chinese and Japanese movies, dramas and animation with every source, quality and subtitle",
-        "fileSize": 66946,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/kimoi.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-fa7118f5355edf114865fb085428d758d52816c670632d89a7eb8802880e3def"
-    },
-    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Kisskh.cs3",
         "status": 1,
         "version": 6,
