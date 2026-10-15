@@ -9,4 +9,5 @@ https://raw.githubusercontent.com/decodede/cs-repo/main/repo.json
 ```
 
 
-![Visitor Count](https://count.getloli.com/get/@komikku-app?theme=capoo-2)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=decodede&repo=cs-repo&countColor=%23007EC6)
+
