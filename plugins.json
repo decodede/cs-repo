@@ -105,20 +105,19 @@
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangguoai.cs3",
-        "status": 1,
+        "status": 2,
         "version": 1,
         "name": "huangguoai",
         "internalName": "huangguoai",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "Huangguoai \u2014 AI short drama, AI comic drama, face-swap and parody series with every episode in one catalogue",
+        "description": "Ai drama, comic, dramaface-swap and parody series with every episode in one catalogue",
         "fileSize": 63470,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
-            "TvSeries",
-            "NSFW"
+            "TvSeries"
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangguoai.png",
         "apiVersion": 1,
