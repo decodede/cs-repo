@@ -289,7 +289,7 @@
             "Cartoon",
             "Anime"
         ],
-        "iconUrl": "https://www.wco.tv/logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-32b9a462b0fe1413b2b36b57d74268bdccd1c14b0a2df5017076f73626d61427"
     },
