@@ -281,7 +281,7 @@
             "dronzer11"
         ],
         "description": "Watch cartoons, anime, series and movies from WCO in full quality",
-        "fileSize": 79248,
+        "fileSize": 104731,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -291,7 +291,7 @@
         ],
         "iconUrl": "https://www.wco.tv/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f53b06307371a629777d6bf075713f85982b6f1ff5960d736e7122cba8ad8dac"
+        "fileHash": "sha256-6de6c90cb33385508b6692574e45e61d16297fb8fff103235c9a4367bae92b9a"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
