@@ -8,12 +8,12 @@
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "91Crdj \u2014 Chinese adult short drama and video catalogue",
+        "description": "NSFW - short drama and video catalogue",
         "fileSize": 56586,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
-            "NSFW"
+            "TvSeries"
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/91aicrdj.png",
         "apiVersion": 1,
@@ -112,7 +112,7 @@
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "Huangdou \u2014 AI short drama, AI comic drama, novels and community posts",
+        "description": "NSFW - short drama and video catalogue",
         "fileSize": 71506,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
@@ -132,7 +132,7 @@
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "Ai drama, comic, dramaface-swap and parody series with every episode in one catalogue",
+        "description": "NSFW - short drama and video catalogue",
         "fileSize": 65381,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
