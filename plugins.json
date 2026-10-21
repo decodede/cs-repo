@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/91crdj.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "91crdj",
         "internalName": "91crdj",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "91Crdj \u2014 Chinese adult short drama and video catalogue",
-        "fileSize": 55541,
+        "fileSize": 56586,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
@@ -17,7 +17,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/91aicrdj.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0942dde7b96fa5d225e73fb7c518832878b097b68c7426c88b75a2e5df6eae19"
+        "fileHash": "sha256-52877949b66a28ad8775d43b845d8d27be29865eae9ca4ee358f9ff7d0967505"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
