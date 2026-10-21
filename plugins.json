@@ -126,14 +126,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangguoai.cs3",
         "status": 2,
-        "version": 1,
+        "version": 2,
         "name": "huangguoai",
         "internalName": "huangguoai",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Ai drama, comic, dramaface-swap and parody series with every episode in one catalogue",
-        "fileSize": 63470,
+        "fileSize": 65381,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
@@ -141,7 +141,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangguoai.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4a999cca3daa3a13fa06af919448ff90d06eb72e956ee244b33168ba2ee007d3"
+        "fileHash": "sha256-d0d74f581fd71657287c6ed3874c96e0832deb74254c4e30a9b452b7a16bcdf6"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Kisskh.cs3",
