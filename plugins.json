@@ -231,14 +231,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "Screen",
         "internalName": "Screen",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies Post-OTT in HD",
-        "fileSize": 24508,
+        "fileSize": 24501,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -246,7 +246,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/screen.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4171c9f81305d486be775d930654eee6690942e76675b5e80f6fa53bd1db7da0"
+        "fileHash": "sha256-8f952ca8e1f85c9e214b3eea308f5ca3daa1880cee5a144ee831a0299bbe4b70"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Stremio.cs3",
@@ -273,14 +273,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wap.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Wap",
         "internalName": "Wap",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies, Series and Hollywood Dubbed",
-        "fileSize": 31646,
+        "fileSize": 31922,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -289,7 +289,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wap.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9ab8d0945645ce717dd342f850a6a172132ed618142a651f86c683669eb47344"
+        "fileHash": "sha256-6313e4baad2c3c3d487394ad821acd9828ecdbcbbfb4b3ad07e7346edd1ea4b1"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
