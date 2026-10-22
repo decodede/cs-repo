@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/91crdj.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "91crdj",
         "internalName": "91crdj",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "NSFW - short drama and video catalogue",
-        "fileSize": 56586,
+        "fileSize": 56514,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
@@ -17,7 +17,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/91aicrdj.png",
         "apiVersion": 1,
-        "fileHash": "sha256-52877949b66a28ad8775d43b845d8d27be29865eae9ca4ee358f9ff7d0967505"
+        "fileHash": "sha256-422ba4a1b4e4bd45a626f28245f27cf0bc09dfa46d33d0c901d433314e027ba6"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
@@ -106,14 +106,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "huangdou",
         "internalName": "huangdou",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "NSFW - short drama and video catalogue",
-        "fileSize": 71506,
+        "fileSize": 71439,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
@@ -121,19 +121,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangdou.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a4471b6d6e5df5b1e64d81d64ac574acc8b5f4b5d5ecc7318e064fbaacfb66d8"
+        "fileHash": "sha256-5f83208e23456f30e74742781f304a7e6a1d9eb6944573b320844e0d605412f4"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangguoai.cs3",
         "status": 2,
-        "version": 2,
+        "version": 3,
         "name": "huangguoai",
         "internalName": "huangguoai",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "NSFW - short drama and video catalogue",
-        "fileSize": 65381,
+        "fileSize": 65376,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "zh",
         "tvTypes": [
@@ -141,7 +141,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangguoai.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d0d74f581fd71657287c6ed3874c96e0832deb74254c4e30a9b452b7a16bcdf6"
+        "fileHash": "sha256-70cf5d77139aa9bbe6d500defedb6630ac851a6e450a938d7259a070b7b5656f"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Kisskh.cs3",
