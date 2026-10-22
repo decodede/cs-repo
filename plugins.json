@@ -86,14 +86,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
         "status": 1,
-        "version": 1,
+        "version": 5,
         "name": "FindDrama",
         "internalName": "FindDrama",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "short dramas in one place.",
-        "fileSize": 78890,
+        "fileSize": 74417,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -101,7 +101,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/finddrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6c9bfbe861c6b14b9a47baca9a6d1e042dfbb860bb42750ab57a059d388bd49a"
+        "fileHash": "sha256-c6c81955b3a09ea1a03fe884317f305a8b933337c1c2c42c6ee5d474cf87b0c7"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
