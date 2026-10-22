@@ -231,14 +231,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Screen",
         "internalName": "Screen",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies Post-OTT in HD",
-        "fileSize": 24501,
+        "fileSize": 20149,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -246,7 +246,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/screen.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8f952ca8e1f85c9e214b3eea308f5ca3daa1880cee5a144ee831a0299bbe4b70"
+        "fileHash": "sha256-dcfdaca49deaba2e23f1d5c6d3afa678bced2f6fbc0da812a2af52cb52d08263"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Stremio.cs3",
