@@ -44,14 +44,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Blasters.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Blasters",
         "internalName": "Blasters",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Tamil movies and dubbed cinema from TamilBlasters",
-        "fileSize": 43541,
+        "fileSize": 43515,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "ta",
         "tvTypes": [
@@ -60,7 +60,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-de4fc6833682bf27bdb84b1c3226fcf645b7bbff0d04fd053345e7c8487e5f4c"
+        "fileHash": "sha256-c1c2a4d292fc2cafa6e2291637e9208ae70e29d35ed4cf0c7a97dea14c4b3bc6"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FilmyFly.cs3",
@@ -72,7 +72,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu movies and web series from FilmyFly",
-        "fileSize": 93006,
+        "fileSize": 93005,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -81,7 +81,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/filmfly.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-1f4364d8ce93699be9022eb2317be1ce659582d3893397913cd7a39acc47b1f2"
+        "fileHash": "sha256-5a0e10a4a791d9f1ac2e4efe9a1c971a789349c03f58ac2963d632d3f527f56b"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
@@ -153,7 +153,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "KissKH - Asian dramas, Hollywood, anime and movies with every quality, audio track and subtitle",
-        "fileSize": 68183,
+        "fileSize": 68008,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -165,7 +165,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/kisskh.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-cdbfaf63585e4f12ec0461b448e82bdf1be5216367c997668ec7ac28a3dc56e7"
+        "fileHash": "sha256-445d8cb4fbafb6f17ea219b03df0e8c4c66f47e14ac0dd7f537c180365ba7c67"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
@@ -301,7 +301,7 @@
             "dronzer11"
         ],
         "description": "Watch cartoons, anime, series and movies from WCO in full quality",
-        "fileSize": 105431,
+        "fileSize": 105393,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -311,7 +311,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-2881fe2e36605642af7ceb1dc77b1c8045c2b48df1cd5b97b64b275ebf31bc45"
+        "fileHash": "sha256-d2cb05f0465b38469d3156da45f3d83dbf012b3e72ae09a702b196d648179874"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
