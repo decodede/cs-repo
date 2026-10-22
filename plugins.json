@@ -44,14 +44,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Blasters.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "Blasters",
         "internalName": "Blasters",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Tamil movies and dubbed cinema from TamilBlasters",
-        "fileSize": 43515,
+        "fileSize": 43542,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "ta",
         "tvTypes": [
@@ -60,7 +60,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-c1c2a4d292fc2cafa6e2291637e9208ae70e29d35ed4cf0c7a97dea14c4b3bc6"
+        "fileHash": "sha256-9872c123211c987417177487598fff749f76d709e2ea96cdbe89d0abe5dd16e3"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FilmyFly.cs3",
