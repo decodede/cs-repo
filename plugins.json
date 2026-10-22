@@ -301,7 +301,7 @@
             "dronzer11"
         ],
         "description": "Watch cartoons, anime, series and movies from WCO in full quality",
-        "fileSize": 107002,
+        "fileSize": 105431,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -311,19 +311,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-6fdece98ea6a7e40b7e0028a8f4b24a320f59a1ed42f163c981584103e3ea2a9"
+        "fileHash": "sha256-2881fe2e36605642af7ceb1dc77b1c8045c2b48df1cd5b97b64b275ebf31bc45"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "Wood",
         "internalName": "Wood",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu, Hindi, English, Tamil, Malayalam movies and web series with every quality",
-        "fileSize": 54642,
+        "fileSize": 54403,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -332,6 +332,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wood.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-2c2f42d62d26ed6f6f8cd78abb27ec5565ad750cd22dbdcc675742a6f64a0535"
+        "fileHash": "sha256-2ac717012161e5d55edbcaa44d644ec28e819f958682ce89019765a8c2cd0b4c"
     }
 ]
