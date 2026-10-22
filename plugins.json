@@ -316,14 +316,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "Wood",
         "internalName": "Wood",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu, Hindi, English, Tamil, Malayalam movies and web series with every quality",
-        "fileSize": 54403,
+        "fileSize": 54492,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -332,6 +332,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wood.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-2ac717012161e5d55edbcaa44d644ec28e819f958682ce89019765a8c2cd0b4c"
+        "fileHash": "sha256-7246875c9dae0d1421a6926913f0df3e132a6955ee51cbc6efdd90648a9b311b"
     }
 ]
