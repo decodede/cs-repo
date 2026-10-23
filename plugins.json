@@ -280,7 +280,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies, Series and Hollywood Dubbed",
-        "fileSize": 31922,
+        "fileSize": 31979,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -289,7 +289,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wap.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6313e4baad2c3c3d487394ad821acd9828ecdbcbbfb4b3ad07e7346edd1ea4b1"
+        "fileHash": "sha256-3b45ea1acdd9ddbd6b30f95288ae8d051bf8daebaf93e8d6f6fce676c21f9a02"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
