@@ -177,7 +177,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "short drama providers as catalogues, with English/Indonesian switch",
-        "fileSize": 75182,
+        "fileSize": 75242,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -185,19 +185,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuno.png",
         "apiVersion": 1,
-        "fileHash": "sha256-636a7bd136e6f4852335d644258137b42c5c9771cde01318dbc11c0fb476e5df"
+        "fileHash": "sha256-179d865a605d88cf258eb90db5c0521bbbe1b1ef7de911991634f77bf575285b"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
         "status": 1,
-        "version": 1,
+        "version": 7,
         "name": "ReelFren",
         "internalName": "ReelFren",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Every ReelFren site as its own provider",
-        "fileSize": 61439,
+        "fileSize": 57896,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -205,7 +205,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-91b4c5ea61711cec1aaaa4b5ac35345a67b618ccb75a35f527767f769badf8d0"
+        "fileHash": "sha256-050dfab44710b4acc40598aec60b042edebb1f2f015ce03cf106fe50ca4f2407"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
