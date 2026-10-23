@@ -190,14 +190,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "ReelFren",
         "internalName": "ReelFren",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Every ReelFren site as its own provider",
-        "fileSize": 57896,
+        "fileSize": 57698,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -205,7 +205,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-050dfab44710b4acc40598aec60b042edebb1f2f015ce03cf106fe50ca4f2407"
+        "fileHash": "sha256-b88f29007ce7d1339c1b211d1673a478d8487dbd368795b767f788c3e9c5b728"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
