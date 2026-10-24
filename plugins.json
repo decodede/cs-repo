@@ -217,7 +217,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies and Dubbed Cinema",
-        "fileSize": 51230,
+        "fileSize": 65902,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -226,7 +226,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/rulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-f5933e930efc6853fcb029d7cb4f1954dca183f33d84d76be7ea5d685d28566d"
+        "fileHash": "sha256-605265848c98e9164ac9fac174677add21e660c40210c0e0ed1e106f9050acbc"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
