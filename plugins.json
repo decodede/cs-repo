@@ -197,7 +197,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Every ReelFren site as its own provider",
-        "fileSize": 57698,
+        "fileSize": 58839,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -205,7 +205,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b88f29007ce7d1339c1b211d1673a478d8487dbd368795b767f788c3e9c5b728"
+        "fileHash": "sha256-5e8dcad1afc2594e9288e0b67285970360432875be1422c3139d27f25b443fb5"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
