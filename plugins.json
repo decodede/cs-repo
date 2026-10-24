@@ -251,14 +251,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Stremio.cs3",
         "status": 2,
-        "version": 5,
+        "version": 7,
         "name": "Stremio",
         "internalName": "Stremio",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Play anything your Stremio addons can find.",
-        "fileSize": 168963,
+        "fileSize": 169280,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -268,7 +268,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-db1afd0eae40d8f604c6dd5351549cbc11251c5d38f7ebd751a2fb5227b294de"
+        "fileHash": "sha256-b69b4df15b92e7b2dd24a5ce36ef8fe1e3e10a7231646f6ad9a821eb11a19992"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Vdrama.cs3",
