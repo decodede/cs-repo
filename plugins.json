@@ -271,6 +271,27 @@
         "fileHash": "sha256-db1afd0eae40d8f604c6dd5351549cbc11251c5d38f7ebd751a2fb5227b294de"
     },
     {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Vdrama.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Vdrama",
+        "internalName": "Vdrama",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "Watch 45,000+ vertical short dramas from 24 networks in HD",
+        "fileSize": 14559,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/vdrama.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-a2e6da2caf796c3f5d6dfdd9c93067cdcfa208d5f62b1a221d1819b355bfd870"
+    },
+    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wap.cs3",
         "status": 1,
         "version": 8,
