@@ -11,7 +11,7 @@
         "description": "NSFW - short drama and video catalogue",
         "fileSize": 56514,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "zh",
+        "language": "all",
         "tvTypes": [
             "TvSeries"
         ],
@@ -31,7 +31,7 @@
         "description": "AnimeRulz \u2014 anime in Hindi, Telugu, Tamil, English and more, with every server and audio track",
         "fileSize": 117081,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
+        "language": "hi",
         "tvTypes": [
             "TvSeries",
             "Movie",
@@ -115,7 +115,7 @@
         "description": "NSFW - short drama and video catalogue",
         "fileSize": 71439,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "zh",
+        "language": "all",
         "tvTypes": [
             "TvSeries"
         ],
@@ -135,7 +135,7 @@
         "description": "NSFW - short drama and video catalogue",
         "fileSize": 65376,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "zh",
+        "language": "all",
         "tvTypes": [
             "TvSeries"
         ],
@@ -282,7 +282,7 @@
         "description": "Watch 45,000+ vertical short dramas from 24 networks in HD",
         "fileSize": 17186,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
+        "language": "all",
         "tvTypes": [
             "TvSeries",
             "Movie"
