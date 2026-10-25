@@ -210,14 +210,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "Rulz",
         "internalName": "Rulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Telugu Movies and Dubbed Cinema",
-        "fileSize": 73379,
+        "fileSize": 73387,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -226,7 +226,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/rulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-0a81a7d0bcf2c37c8ecc08c8e2d8af24acb4ca3794d44902b39be3629a9ae093"
+        "fileHash": "sha256-7b68f2bf6e3271ddba87d7ec63de815928d3083afe66ccd9be46f09367e30255"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
