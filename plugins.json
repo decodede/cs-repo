@@ -315,14 +315,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "wcotv",
         "internalName": "wcotv",
         "authors": [
             "dronzer11"
         ],
         "description": "Watch cartoons, anime, series and movies from WCO in full quality",
-        "fileSize": 105182,
+        "fileSize": 101096,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -332,7 +332,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-90ee146938198f7d70f2c9c714c6d83b47666e52707417e4d0ff937e8f07ea63"
+        "fileHash": "sha256-8c4e130ad516faa9d951f2922d784d1ac7e7f017a2aab8e381e2609c22f98ffe"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
