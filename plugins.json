@@ -210,7 +210,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Rulz",
         "internalName": "Rulz",
         "authors": [
@@ -226,7 +226,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/rulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-d32eef9b2f9e604da684bb23708a1829a4f4855f3704519257433f1fecd4b56d"
+        "fileHash": "sha256-3552d3aefe28e9466b54df6ce096364eea99bb19c69349bb2fad3e480c02b524"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
