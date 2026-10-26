@@ -106,14 +106,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/GFlix.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "GFlix",
         "internalName": "GFlix",
         "authors": [
             "decodede"
         ],
         "description": "Run any Nuvio-format JS provider. Pick plugins by name; Stremio addons drive home and search.",
-        "fileSize": 157415,
+        "fileSize": 158659,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/gflix.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f9e172a48ef438ba41039f35c848f8ce46e2e97016bbaeb3c0cf0582dccfbd2d"
+        "fileHash": "sha256-8480ec172e59252549434e0bc449981044b7b76a75802558990db3ecaa2c287c"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
