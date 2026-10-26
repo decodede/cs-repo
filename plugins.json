@@ -113,7 +113,7 @@
             "decodede"
         ],
         "description": "Run any Nuvio-format JS provider. Pick plugins by name; Stremio addons drive home and search.",
-        "fileSize": 154450,
+        "fileSize": 157881,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/gflix.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8d9992a9ca0e9f525ed609f7a757589845f99e6362802b9a7475b974c515a9a4"
+        "fileHash": "sha256-06aee249a593543092189dd22d4d80ecbc2cf4651b7cc2cdc513f44dbf83b551"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
