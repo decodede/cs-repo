@@ -106,7 +106,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/GFlix.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "GFlix",
         "internalName": "GFlix",
         "authors": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/gflix.png",
         "apiVersion": 1,
-        "fileHash": "sha256-06aee249a593543092189dd22d4d80ecbc2cf4651b7cc2cdc513f44dbf83b551"
+        "fileHash": "sha256-791ef09ed2328c8c48c9379132d391e109bbeaf2fbbb156da99c97a958c4909f"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
