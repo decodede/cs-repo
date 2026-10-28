@@ -191,6 +191,27 @@
         "fileHash": "sha256-445d8cb4fbafb6f17ea219b03df0e8c4c66f47e14ac0dd7f537c180365ba7c67"
     },
     {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/LinkLens.cs3",
+        "status": 1,
+        "version": 17,
+        "name": "LinkLens",
+        "internalName": "LinkLens",
+        "authors": [
+            "decodede"
+        ],
+        "description": "Stremio catalogue rows and search, per-site page builders, and one extractor that finds the video, audio and subtitle streams.",
+        "fileSize": 80485,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/linklens.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-90b147f1861b2aee029d8f28c1b996ae3c0d52ff4232cf01615c4b888dd45abb"
+    },
+    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
         "status": 1,
         "version": 5,
