@@ -42,48 +42,6 @@
         "fileHash": "sha256-d4afc83d0525f847f26dbf3e17ce2a8762ca7569ca8515d2380d29fef01e216f"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Blasters.cs3",
-        "status": 1,
-        "version": 9,
-        "name": "Blasters",
-        "internalName": "Blasters",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Tamil movies and dubbed cinema from TamilBlasters",
-        "fileSize": 43542,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "ta",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/blasters.jpeg",
-        "apiVersion": 1,
-        "fileHash": "sha256-9872c123211c987417177487598fff749f76d709e2ea96cdbe89d0abe5dd16e3"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FilmyFly.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "FilmyFly",
-        "internalName": "FilmyFly",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu movies and web series from FilmyFly",
-        "fileSize": 93005,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/filmfly.jpeg",
-        "apiVersion": 1,
-        "fileHash": "sha256-5a0e10a4a791d9f1ac2e4efe9a1c971a789349c03f58ac2963d632d3f527f56b"
-    },
-    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
         "status": 1,
         "version": 5,
@@ -165,51 +123,6 @@
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangguoai.png",
         "apiVersion": 1,
         "fileHash": "sha256-70cf5d77139aa9bbe6d500defedb6630ac851a6e450a938d7259a070b7b5656f"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Kisskh.cs3",
-        "status": 1,
-        "version": 6,
-        "name": "Kisskh",
-        "internalName": "Kisskh",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "KissKH - Asian dramas, Hollywood, anime and movies with every quality, audio track and subtitle",
-        "fileSize": 68008,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "TvSeries",
-            "AsianDrama",
-            "Movie",
-            "Anime",
-            "OVA"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/kisskh.jpeg",
-        "apiVersion": 1,
-        "fileHash": "sha256-445d8cb4fbafb6f17ea219b03df0e8c4c66f47e14ac0dd7f537c180365ba7c67"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/LinkLens.cs3",
-        "status": 1,
-        "version": 17,
-        "name": "LinkLens",
-        "internalName": "LinkLens",
-        "authors": [
-            "decodede"
-        ],
-        "description": "Stremio catalogue rows and search, per-site page builders, and one extractor that finds the video, audio and subtitle streams.",
-        "fileSize": 80485,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/linklens.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-90b147f1861b2aee029d8f28c1b996ae3c0d52ff4232cf01615c4b888dd45abb"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
