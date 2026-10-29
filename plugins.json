@@ -127,14 +127,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/MangaDistrict.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "MangaDistrict",
         "internalName": "MangaDistrict",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "NSFW - AI animation catalogue, password protected",
-        "fileSize": 23777,
+        "description": "NSFW - AI animation catalogue",
+        "fileSize": 20089,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -142,7 +142,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/mangadistrict.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9dd51a1f8ffc64727efe1abe777ca1f6b2371d8256de4068e29e98bb165e07b0"
+        "fileHash": "sha256-49ef67a515eeb606a6f72ea4866341455243d20f0ce6f836930b97aa713862ca"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
