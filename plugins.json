@@ -22,14 +22,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Animerulz",
         "internalName": "Animerulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "AnimeRulz \u2014 anime in Hindi, Telugu, Tamil, English and more, with every server and audio track",
-        "fileSize": 117081,
+        "fileSize": 119805,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "hi",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/animerulz.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-d4afc83d0525f847f26dbf3e17ce2a8762ca7569ca8515d2380d29fef01e216f"
+        "fileHash": "sha256-efe00b6f4d21b2cb6ff9502c405d75bc74f00ef10af8b67d0f0d52bb5de8a001"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
