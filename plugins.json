@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/91crdj.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "91crdj",
-        "internalName": "91crdj",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "NSFW - short drama and video catalogue",
-        "fileSize": 56514,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/91aicrdj.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-422ba4a1b4e4bd45a626f28245f27cf0bc09dfa46d33d0c901d433314e027ba6"
-    },
-    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
         "status": 1,
         "version": 6,
@@ -83,46 +63,6 @@
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/gflix.png",
         "apiVersion": 1,
         "fileHash": "sha256-4afe1950ac296f38adde0ddf8ed423b78c7fd0bb00d189a34307d8bec8f5f4c5"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangdou.cs3",
-        "status": 1,
-        "version": 6,
-        "name": "huangdou",
-        "internalName": "huangdou",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "NSFW - short drama and video catalogue",
-        "fileSize": 71439,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangdou.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-5f83208e23456f30e74742781f304a7e6a1d9eb6944573b320844e0d605412f4"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/huangguoai.cs3",
-        "status": 2,
-        "version": 3,
-        "name": "huangguoai",
-        "internalName": "huangguoai",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "NSFW - short drama and video catalogue",
-        "fileSize": 65376,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/huangguoai.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-70cf5d77139aa9bbe6d500defedb6630ac851a6e450a938d7259a070b7b5656f"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/MangaDistrict.cs3",
