@@ -127,14 +127,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "NunoDrama",
         "internalName": "NunoDrama",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "short drama providers as catalogues, with English/Indonesian switch",
-        "fileSize": 75242,
+        "fileSize": 75229,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -142,7 +142,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuno.png",
         "apiVersion": 1,
-        "fileHash": "sha256-179d865a605d88cf258eb90db5c0521bbbe1b1ef7de911991634f77bf575285b"
+        "fileHash": "sha256-e96678b483c36794613017ec9bc9ee98836f4cd1cdcd1cba9826f7b44866a598"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
