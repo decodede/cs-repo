@@ -85,6 +85,29 @@
         "fileHash": "sha256-e96678b483c36794613017ec9bc9ee98836f4cd1cdcd1cba9826f7b44866a598"
     },
     {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/PentaFlix.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "PentaFlix",
+        "internalName": "PentaFlix",
+        "authors": [
+            "decodede"
+        ],
+        "description": "Five sites behind one home. Stremio addons drive the home screen, site providers resolve HLS and DDL in parallel.",
+        "fileSize": 92421,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Others"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/pentaflix.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-b9d53fd7034c5010c0c00eba9c57736ef62df5e6288136b2bfafdd0c29bbbf65"
+    },
+    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
         "status": 1,
         "version": 12,
