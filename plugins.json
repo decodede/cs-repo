@@ -42,29 +42,6 @@
         "fileHash": "sha256-c6c81955b3a09ea1a03fe884317f305a8b933337c1c2c42c6ee5d474cf87b0c7"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/GFlix.cs3",
-        "status": 1,
-        "version": 17,
-        "name": "GFlix",
-        "internalName": "GFlix",
-        "authors": [
-            "decodede"
-        ],
-        "description": "Run any Nuvio-format JS provider. Pick plugins by name; Stremio addons drive home and search.",
-        "fileSize": 435006,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Others"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/gflix.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-4afe1950ac296f38adde0ddf8ed423b78c7fd0bb00d189a34307d8bec8f5f4c5"
-    },
-    {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
         "status": 1,
         "version": 6,
