@@ -71,7 +71,7 @@
             "decodede"
         ],
         "description": "Five sites behind one home. Stremio addons drive the home screen, site providers resolve HLS and DDL in parallel.",
-        "fileSize": 127414,
+        "fileSize": 127635,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -82,7 +82,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/OmniSource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-30549ede627be295c6b3239fa0ee8b67d91c27095d89e7721b2aaf0db9752490"
+        "fileHash": "sha256-860fb25d2bdf3e7a3ff3a69d20aaa3cfb0e601abcbc18e112ce548586cb7cb68"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
