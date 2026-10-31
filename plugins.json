@@ -1,278 +1,206 @@
-[
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
-        "status": 1,
-        "version": 7,
-        "name": "Animerulz",
-        "internalName": "Animerulz",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "AnimeRulz \u2014 anime in Hindi, Telugu, Tamil, English and more, with every server and audio track",
-        "fileSize": 117515,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "hi",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/animerulz.jpeg",
-        "apiVersion": 1,
-        "fileHash": "sha256-81878a6da2ea57362c80ca9570584d7fe2af3ab0e7e23261a3cef78bcd3d81d4"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
-        "status": 1,
-        "version": 5,
-        "name": "FindDrama",
-        "internalName": "FindDrama",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "short dramas in one place.",
-        "fileSize": 74417,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/finddrama.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-c6c81955b3a09ea1a03fe884317f305a8b933337c1c2c42c6ee5d474cf87b0c7"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/GFlix.cs3",
-        "status": 1,
-        "version": 17,
-        "name": "GFlix",
-        "internalName": "GFlix",
-        "authors": [
-            "decodede"
-        ],
-        "description": "Run any Nuvio-format JS provider. Pick plugins by name; Stremio addons drive home and search.",
-        "fileSize": 435006,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Others"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/gflix.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-4afe1950ac296f38adde0ddf8ed423b78c7fd0bb00d189a34307d8bec8f5f4c5"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
-        "status": 1,
-        "version": 6,
-        "name": "NunoDrama",
-        "internalName": "NunoDrama",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "short drama providers as catalogues, with English/Indonesian switch",
-        "fileSize": 75229,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuno.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-e96678b483c36794613017ec9bc9ee98836f4cd1cdcd1cba9826f7b44866a598"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/PentaFlix.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "PentaFlix",
-        "internalName": "PentaFlix",
-        "authors": [
-            "decodede"
-        ],
-        "description": "Five sites behind one home. Stremio addons drive the home screen, site providers resolve HLS and DDL in parallel.",
-        "fileSize": 99555,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Others"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/pentaflix.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-5f99d55fc1c36baa18415884e95a41fe5ce91e23335a7c7e6a972299ac720cad"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
-        "status": 1,
-        "version": 12,
-        "name": "ReelFren",
-        "internalName": "ReelFren",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Every ReelFren site as its own provider",
-        "fileSize": 46654,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-19448c441021b2c47f59704788252c6044836298a5c34093a35e75ae21f41b90"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
-        "status": 1,
-        "version": 11,
-        "name": "Rulz",
-        "internalName": "Rulz",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu Movies and Dubbed Cinema",
-        "fileSize": 73898,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/rulz.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-886e1a05390ba9a0b22b56aab2e1a2009476eb54a459d078b3f17af707fd0676"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
-        "status": 1,
-        "version": 4,
-        "name": "Screen",
-        "internalName": "Screen",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu Movies Post-OTT in HD",
-        "fileSize": 20149,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/screen.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-dcfdaca49deaba2e23f1d5c6d3afa678bced2f6fbc0da812a2af52cb52d08263"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Stremio.cs3",
-        "status": 2,
-        "version": 7,
-        "name": "Stremio",
-        "internalName": "Stremio",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Play anything your Stremio addons can find.",
-        "fileSize": 169282,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Other"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-75238bfe09d176e90fb3562c1a4a93d551cf94213017b8d4db815cf80fc390d9"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Vdrama.cs3",
-        "status": 1,
-        "version": 7,
-        "name": "Vdrama",
-        "internalName": "Vdrama",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Watch 45,000+ vertical short dramas from 24 networks in HD",
-        "fileSize": 29345,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "all",
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/vdrama.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-d2f774d28df205d666720d2787e5af6e5e6db1ec619898405769aaabdceed99a"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wap.cs3",
-        "status": 1,
-        "version": 10,
-        "name": "Wap",
-        "internalName": "Wap",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu Movies, Series and Hollywood Dubbed",
-        "fileSize": 35595,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wap.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-72a56b7e1174d1ef8d14d91821dc5894afce41814829b9b15c0109637cc98fde"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
-        "status": 1,
-        "version": 9,
-        "name": "wcotv",
-        "internalName": "wcotv",
-        "authors": [
-            "dronzer11"
-        ],
-        "description": "Watch cartoons, anime, series and movies from WCO in full quality",
-        "fileSize": 100107,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "Cartoon",
-            "Anime"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
-        "apiVersion": 1,
-        "fileHash": "sha256-07174e3024349508c73bdb7cdca7c2e60a832f6d0d172a9b44e9541247e98667"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
-        "status": 1,
-        "version": 19,
-        "name": "Wood",
-        "internalName": "Wood",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu, Hindi, English, Tamil, Malayalam movies and web series with every quality",
-        "fileSize": 55479,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wood.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-878a1e955d56baa0875db91219cf4bc49408ce470bbe97606611facba618e016"
-    }
-]
+{
+  "4kHdHub": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/hexion.js",
+    true
+  ],
+  "Ani.Pm": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/onyxia.js",
+    true
+  ],
+  "AniKage": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/xylos.js",
+    true
+  ],
+  "AniKoto": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/zyrvael.js",
+    true
+  ],
+  "AnimeCube": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/vyranel.js",
+    true
+  ],
+  "AnimeWorld": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/gravix.js",
+    true
+  ],
+  "AniZone": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/lenyr.js",
+    true
+  ],
+  "ANV": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/ozeris.js",
+    true
+  ],
+  "BanglaPlex": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/lyrin.js",
+    true
+  ],
+  "BingeBang": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/waelum.js",
+    true
+  ],
+  "CineCalidad": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/vitrix.js",
+    true
+  ],
+  "CineJoy": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/fendrix.js",
+    true
+  ],
+  "CinemaCity": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/svartok.js",
+    true
+  ],
+  "Circle FTP": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/bdix-cf.js",
+    true
+  ],
+  "CTGMovies": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/durnel.js",
+    true
+  ],
+  "Dexter": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/sylphera.js",
+    true
+  ],
+  "DhakaFlix FTP": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/bdix-df.js",
+    true
+  ],
+  "Dulo": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/novus.js",
+    true
+  ],
+  "FibWatch": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/xandril.js",
+    true
+  ],
+  "FlixHub": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/bdix-fh.js",
+    true
+  ],
+  "GramCinema": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/fjoral.js",
+    true
+  ],
+  "HackStore": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/phraxis.js",
+    true
+  ],
+  "HdHub4u": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/qyrvaen.js",
+    true
+  ],
+  "Hlowb": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/karnis.js",
+    true
+  ],
+  "Internet Archive": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/brellor.js",
+    true
+  ],
+  "KatMovieHD": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/qorva.js",
+    true
+  ],
+  "Kisskh": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/fyron.js",
+    true
+  ],
+  "Mapple": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/maelith.js",
+    true
+  ],
+  "MovieBox": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/mavonyx.js",
+    true
+  ],
+  "MovieLinkBD": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/jhaeros.js",
+    true
+  ],
+  "MoviesDrive": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/vornix.js",
+    true
+  ],
+  "MoviesHunt": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/kryxalia.js",
+    true
+  ],
+  "MultiMovies": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/fastrion.js",
+    true
+  ],
+  "Netmirror": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/soryn.js",
+    true
+  ],
+  "Nxsha": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/tyvrel.js",
+    true
+  ],
+  "PurStream": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/wrenok.js",
+    true
+  ],
+  "Re:ANIME": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/praxiel.js",
+    true
+  ],
+  "ShowBox": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/pynvix.js",
+    true
+  ],
+  "TioPlus": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/noctyx.js",
+    true
+  ],
+  "ToonWorld4All": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/ilvyrel.js",
+    true
+  ],
+  "VAplayer": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/zevran.js",
+    true
+  ],
+  "VegaMovies": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/solunix.js",
+    true
+  ],
+  "Vidbolt": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/esvyl.js",
+    true
+  ],
+  "VidFast": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/nyxora.js",
+    true
+  ],
+  "Vidlink": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/haylox.js",
+    true
+  ],
+  "VidLove": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/quinox.js",
+    true
+  ],
+  "VidRock": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/evyrith.js",
+    true
+  ],
+  "Vidy": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/rynara.js",
+    true
+  ],
+  "VixSrc": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/kethrax.js",
+    true
+  ],
+  "WcoFlix": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/rylvane.js",
+    true
+  ],
+  "Wikimedia": [
+    "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/providers/jyniq.js",
+    true
+  ]
+}
