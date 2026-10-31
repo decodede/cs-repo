@@ -87,14 +87,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/OmniSource.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "OmniSource",
         "internalName": "OmniSource",
         "authors": [
             "decodede"
         ],
         "description": "Five sites behind one home. Stremio addons drive the home screen, site providers resolve HLS and DDL in parallel.",
-        "fileSize": 113610,
+        "fileSize": 113979,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -105,7 +105,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/OmniSource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-55bd5bf3642035e395fc2793785fe0c388dc2a5c299cb2279a86a41a3c53cd78"
+        "fileHash": "sha256-012efed4c015fba414f10de03c56003fc4128fa23958c097183d3079fdd86859"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
