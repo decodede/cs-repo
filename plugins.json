@@ -24,14 +24,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/AryaVidya.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "AryaVidya",
         "internalName": "AryaVidya",
         "authors": [
             "decodede"
         ],
         "description": "Free PW batches, lectures, OTT videos.",
-        "fileSize": 60319,
+        "fileSize": 60317,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/AryaVidya.png",
         "apiVersion": 1,
-        "fileHash": "sha256-18ea0c3f75c8ea56cdf3b1508b495440bb293acd4799d48544ed5835070bbcf5"
+        "fileHash": "sha256-34bff53300153814f4f815b54b0a9e22e3c4b01d6067a7beae0a928254f182a3"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
