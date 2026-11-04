@@ -24,7 +24,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/AryaVidya.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "AryaVidya",
         "internalName": "AryaVidya",
         "authors": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/AryaVidya.png",
         "apiVersion": 1,
-        "fileHash": "sha256-153d317b024d090b915bf959aef5f57137f468eb6e0726e8326aa572346f0fa6"
+        "fileHash": "sha256-4323571b61ec27128aec5ab31be5fd05e96832d49d05ee44151ebafc51ab44f3"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
