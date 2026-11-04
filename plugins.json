@@ -154,7 +154,7 @@
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "Play anything your Stremio addons can find.",
+        "description": "Stremio add-ons as CloudStream sources.",
         "fileSize": 169958,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
