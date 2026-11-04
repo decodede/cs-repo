@@ -155,7 +155,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "Play anything your Stremio addons can find.",
-        "fileSize": 169288,
+        "fileSize": 169958,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -165,7 +165,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d109a693ea38a6ad8f514c6f04198a7941c1b2dae56bd81bd467aeb25db88bef"
+        "fileHash": "sha256-22f48cfd63d80acff14c0b0626698dc181adcdee38650c6b575d6d7a117f8fce"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Vdrama.cs3",
