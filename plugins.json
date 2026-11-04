@@ -70,7 +70,7 @@
         "authors": [
             "decodede"
         ],
-        "description": "Five sites behind one home. Stremio addons drive the home screen, site providers resolve HLS and DDL in parallel.",
+        "description": "One home for movie and TV streams.",
         "fileSize": 175180,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
