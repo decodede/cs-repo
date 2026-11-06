@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Animerulz.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/animerulz.cs3",
         "status": 1,
-        "version": 7,
-        "name": "Animerulz",
-        "internalName": "Animerulz",
+        "version": 8,
+        "name": "animerulz",
+        "internalName": "animerulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
@@ -19,19 +19,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/animerulz.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-81878a6da2ea57362c80ca9570584d7fe2af3ab0e7e23261a3cef78bcd3d81d4"
+        "fileHash": "sha256-8294bc724cd4cf8c00f5dc3e18f98ef4f968904dea93b4306f4dfc8f2cc04a87"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/FindDrama.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/finddrama.cs3",
         "status": 1,
-        "version": 5,
-        "name": "FindDrama",
-        "internalName": "FindDrama",
+        "version": 6,
+        "name": "finddrama",
+        "internalName": "finddrama",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "short dramas in one place.",
-        "fileSize": 74417,
+        "fileSize": 74425,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -39,39 +39,102 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/finddrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c6c81955b3a09ea1a03fe884317f305a8b933337c1c2c42c6ee5d474cf87b0c7"
+        "fileHash": "sha256-41a222a5a4d28b9351d30622fc1ae20a439f4ed326aeadb8eb879126cdf22684"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/NunoDrama.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
         "status": 1,
-        "version": 6,
-        "name": "NunoDrama",
-        "internalName": "NunoDrama",
+        "version": 12,
+        "name": "movierulz",
+        "internalName": "movierulz",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "Telugu Movies and Dubbed Cinema",
+        "fileSize": 74000,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movierulz.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-76d72a9d52316ef5f653c676822ca517846ab22504bb06adaa5390f92dadc62f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movieswood.cs3",
+        "status": 1,
+        "version": 20,
+        "name": "movieswood",
+        "internalName": "movieswood",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "Telugu, Hindi, English, Tamil, Malayalam movies and web series with every quality",
+        "fileSize": 55593,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movieswood.webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-1c4b682e940a3c007d47602590c52f206224bf253029211890ce4adbd94eb1b0"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/moviezwap.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "moviezwap",
+        "internalName": "moviezwap",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "Telugu Movies, Series and Hollywood Dubbed",
+        "fileSize": 35671,
+        "repositoryUrl": "https://github.com/decodede/cs-repo",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/moviezwap.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5d2ba17c06fc646eaa09010065cf36d597e35c9f46d4eadc9bf2cc2889664d82"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/nunodrama.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "nunodrama",
+        "internalName": "nunodrama",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "short drama providers as catalogues, with English/Indonesian switch",
-        "fileSize": 75229,
+        "fileSize": 75236,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
             "AsianDrama"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nuno.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nunodrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e96678b483c36794613017ec9bc9ee98836f4cd1cdcd1cba9826f7b44866a598"
+        "fileHash": "sha256-6698ea674a45c0d2564b50d1a6728a6abb2db9d0a85767067dc1419fb347ae13"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/OmniSource.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/omnisource.cs3",
         "status": 1,
-        "version": 11,
-        "name": "OmniSource",
-        "internalName": "OmniSource",
+        "version": 12,
+        "name": "omnisource",
+        "internalName": "omnisource",
         "authors": [
             "decodede"
         ],
         "description": "One home for movie and TV streams.",
-        "fileSize": 184165,
+        "fileSize": 184146,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -80,21 +143,21 @@
             "Anime",
             "Others"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/OmniSource.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/omnisource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-30689f270fda611e75c90b9e2ed30ff221ea8d7a6e8af94481ca8827721561a7"
+        "fileHash": "sha256-11ef5762f085bbbdb3572b10bcada5d923a4931b04494552b6040ebd164fb6aa"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/reelfren.cs3",
         "status": 1,
-        "version": 12,
-        "name": "ReelFren",
-        "internalName": "ReelFren",
+        "version": 13,
+        "name": "reelfren",
+        "internalName": "reelfren",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Every ReelFren site as its own provider",
-        "fileSize": 46654,
+        "fileSize": 46652,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -102,60 +165,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-19448c441021b2c47f59704788252c6044836298a5c34093a35e75ae21f41b90"
+        "fileHash": "sha256-6732ae79eeb745d8bc2cd0eeb4777bd0b0f65f82d9cce4c421fdf974f0c3a570"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Rulz.cs3",
-        "status": 1,
-        "version": 11,
-        "name": "Rulz",
-        "internalName": "Rulz",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu Movies and Dubbed Cinema",
-        "fileSize": 73898,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/rulz.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-886e1a05390ba9a0b22b56aab2e1a2009476eb54a459d078b3f17af707fd0676"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Screen.cs3",
-        "status": 1,
-        "version": 4,
-        "name": "Screen",
-        "internalName": "Screen",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu Movies Post-OTT in HD",
-        "fileSize": 20149,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/screen.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-dcfdaca49deaba2e23f1d5c6d3afa678bced2f6fbc0da812a2af52cb52d08263"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Stremio.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/stremio.cs3",
         "status": 2,
-        "version": 7,
-        "name": "Stremio",
-        "internalName": "Stremio",
+        "version": 8,
+        "name": "stremio",
+        "internalName": "stremio",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "Stremio add-ons as CloudStream sources.",
-        "fileSize": 169958,
+        "fileSize": 169950,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -165,40 +187,39 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-22f48cfd63d80acff14c0b0626698dc181adcdee38650c6b575d6d7a117f8fce"
+        "fileHash": "sha256-7f3b1dd8d4bc72ca828b747df1dbfa1a55119963416560ae711475282eafca43"
     },
     {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wap.cs3",
+        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/teluguscreen.cs3",
         "status": 1,
-        "version": 10,
-        "name": "Wap",
-        "internalName": "Wap",
+        "version": 5,
+        "name": "teluguscreen",
+        "internalName": "teluguscreen",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
-        "description": "Telugu Movies, Series and Hollywood Dubbed",
-        "fileSize": 35595,
+        "description": "Telugu Movies Post-OTT in HD",
+        "fileSize": 20193,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "Movie"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wap.png",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/teluguscreen.png",
         "apiVersion": 1,
-        "fileHash": "sha256-72a56b7e1174d1ef8d14d91821dc5894afce41814829b9b15c0109637cc98fde"
+        "fileHash": "sha256-5ea10187d89d7a399470fa11b5c32c7d3bb864bc6d291e15a0decbf1dbd833b0"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "wcotv",
         "internalName": "wcotv",
         "authors": [
             "dronzer11"
         ],
         "description": "Watch cartoons, anime, series and movies from WCO in full quality",
-        "fileSize": 100107,
+        "fileSize": 100111,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -208,27 +229,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-07174e3024349508c73bdb7cdca7c2e60a832f6d0d172a9b44e9541247e98667"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/Wood.cs3",
-        "status": 1,
-        "version": 19,
-        "name": "Wood",
-        "internalName": "Wood",
-        "authors": [
-            "cookie \ud83c\udf6a"
-        ],
-        "description": "Telugu, Hindi, English, Tamil, Malayalam movies and web series with every quality",
-        "fileSize": 55479,
-        "repositoryUrl": "https://github.com/decodede/cs-repo",
-        "language": "te",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wood.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-878a1e955d56baa0875db91219cf4bc49408ce470bbe97606611facba618e016"
+        "fileHash": "sha256-0a335c1e2f1f63c1af4569dc3b3a62b137aa7d03debc712845c7fd2768dbfd53"
     }
 ]
