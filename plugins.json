@@ -64,7 +64,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/OmniSource.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "OmniSource",
         "internalName": "OmniSource",
         "authors": [
@@ -82,7 +82,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/OmniSource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-19a3d0cdae7c27af2575f8d5eb01167d1ffc169f591545bc3a1e159ed7b27407"
+        "fileHash": "sha256-30689f270fda611e75c90b9e2ed30ff221ea8d7a6e8af94481ca8827721561a7"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/ReelFren.cs3",
