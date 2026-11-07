@@ -51,7 +51,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies and dubbed cinema",
-        "fileSize": 70295,
+        "fileSize": 72902,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -60,7 +60,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movierulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-d0de25c3c2edc3a90e4cb094df724762979f44594cfefcd1a143da2263cf43a9"
+        "fileHash": "sha256-44f21129fd236d4add5a0b512a8a037797b0641a735642fcb7936905deed1c12"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movieswood.cs3",
@@ -72,7 +72,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "indian multi language",
-        "fileSize": 55615,
+        "fileSize": 55572,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -81,7 +81,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movieswood.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-a8a4f96e42937725c982b2dfe1ec55a3faa9412d14a9ce2bc5860d83edaebe5b"
+        "fileHash": "sha256-d81026caa767ee0ee2d1b00323175ba2af5283e3884b1d8e7a824ad034e8c949"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/moviezwap.cs3",
@@ -93,7 +93,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies, series and hollywood dubbed",
-        "fileSize": 36692,
+        "fileSize": 36684,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -102,7 +102,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/moviezwap.png",
         "apiVersion": 1,
-        "fileHash": "sha256-625c1104fa066b0db92c9bfcfde670baf2149a0930bf13f626979c7b1324f92a"
+        "fileHash": "sha256-900ad2aafd469724ac68b870b01526bcf7680d9a03e20386221fa1abc3618685"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/nunodrama.cs3",
