@@ -170,14 +170,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/stremio.cs3",
         "status": 2,
-        "version": 2,
+        "version": 3,
         "name": "stremio",
         "internalName": "stremio",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "stremio add-ons as cloudstream sources",
-        "fileSize": 173508,
+        "fileSize": 174460,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -187,7 +187,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4a9e7f2561efa93e53789a6bd2fb06350d2a43058a66962bb74234f565ce8b59"
+        "fileHash": "sha256-aeb97e5359550ce229b3f2f34eb0d7578a18cab31156b79d6f4e7121a90137ac"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/teluguscreen.cs3",
