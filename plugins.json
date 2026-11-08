@@ -127,14 +127,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/omnisource.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "omnisource",
         "internalName": "omnisource",
         "authors": [
             "decodede"
         ],
         "description": "one home for movie and tv streams",
-        "fileSize": 192872,
+        "fileSize": 192647,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/omnisource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7de6c04b772ed90fd34d81e46f9a804bd9f6329a0af6ba250be05194e1c3504e"
+        "fileHash": "sha256-a6ee9e858aa30bbb37aa0571f6ef625b7661c9a742f4e6114a040fea46bde6c8"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/reelfren.cs3",
