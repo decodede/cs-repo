@@ -44,14 +44,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "movierulz",
         "internalName": "movierulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies and dubbed cinema",
-        "fileSize": 67831,
+        "fileSize": 68205,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -60,7 +60,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movierulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-f323180790e4303a9357bfe2968a32fc0b0965e8118ca96030fe47bdb00250e2"
+        "fileHash": "sha256-4b9cbbee4bdd8e054fa4feb9f0e66524f0cdf7f1567b268d29ff27f560dc6532"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movieswood.cs3",
