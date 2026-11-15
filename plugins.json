@@ -44,14 +44,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "movierulz",
         "internalName": "movierulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies and dubbed cinema",
-        "fileSize": 64857,
+        "fileSize": 67831,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -60,7 +60,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movierulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-a112cf27b363938412aa4cc15c7c76e956f386bf598276dba58666b1bbca094d"
+        "fileHash": "sha256-f323180790e4303a9357bfe2968a32fc0b0965e8118ca96030fe47bdb00250e2"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movieswood.cs3",
@@ -127,14 +127,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/omnisource.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "omnisource",
         "internalName": "omnisource",
         "authors": [
             "decodede"
         ],
         "description": "one home for movie and tv streams",
-        "fileSize": 198936,
+        "fileSize": 194684,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/omnisource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-339c42a34213e9efc0e6aca2ffe88c9c07507343585e304926fb5abf988c4f36"
+        "fileHash": "sha256-55dacd51839e1bcbddeb41b8e954eafd8bc71e077179df01325060572f060e94"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/reelfren.cs3",
