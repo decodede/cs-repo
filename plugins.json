@@ -51,7 +51,7 @@
             "decodede"
         ],
         "description": "hentai streaming (hstream.moe)",
-        "fileSize": 18238,
+        "fileSize": 18348,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -59,7 +59,7 @@
         ],
         "iconUrl": "https://hstream.moe/images/site-dark.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5defdc21da6473a6070b86435ca826c493bcee554f2b6d0d01d3a845342bd28d"
+        "fileHash": "sha256-6903ee740c30ea67f55a18b62813f847eb205d0f06d62612ce5f7ec7466ac6b0"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
