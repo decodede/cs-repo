@@ -44,14 +44,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "movierulz",
         "internalName": "movierulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies and dubbed cinema",
-        "fileSize": 68205,
+        "fileSize": 68657,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -60,19 +60,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movierulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-4b9cbbee4bdd8e054fa4feb9f0e66524f0cdf7f1567b268d29ff27f560dc6532"
+        "fileHash": "sha256-c6e2f688df0fdfed60e3e18bddd9ed7245e9021fc95e3622c885b435cd475d3f"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movieswood.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "movieswood",
         "internalName": "movieswood",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "indian multi language",
-        "fileSize": 55421,
+        "fileSize": 54968,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -81,19 +81,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movieswood.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-bd8f82252d2bbcbd1781887d452d51691c92e15b34a41ddf8c7f59b362e51d3a"
+        "fileHash": "sha256-9f137575a5132b7b2a717e2a6e3c91ee1db6d75c3e3de66824c414272d89803e"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/moviezwap.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "moviezwap",
         "internalName": "moviezwap",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies, series and hollywood dubbed",
-        "fileSize": 36907,
+        "fileSize": 38848,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -102,7 +102,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/moviezwap.png",
         "apiVersion": 1,
-        "fileHash": "sha256-dcbd30fc57ab24a7046e2ef61d59594ae4d7445a152f65310b72c89d70a19052"
+        "fileHash": "sha256-1319f693a0c9a02621425c22528c3e4ca177f1ca83745ccbf506622cddef4936"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/nunodrama.cs3",
@@ -192,14 +192,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/teluguscreen.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "teluguscreen",
         "internalName": "teluguscreen",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "telugu movies in hd",
-        "fileSize": 21008,
+        "fileSize": 21905,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "te",
         "tvTypes": [
@@ -207,7 +207,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/teluguscreen.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a839e5d5b509dc5a6c5176292f79214118574bde324b96c23408f875f9a3fff6"
+        "fileHash": "sha256-738c5a9fd8c5fa104aaa647afd88747c35b21aca6611732c63366481295d292c"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
