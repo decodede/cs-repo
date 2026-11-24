@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/animerulz.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "animerulz",
         "internalName": "animerulz",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "indian multi language",
-        "fileSize": 117515,
+        "fileSize": 116969,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "hi",
         "tvTypes": [
@@ -19,19 +19,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/animerulz.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-3e5dd9dcd4a8a9edc00e64eff6fbe6eae25bcadb75da7323b705efe4a77409c9"
+        "fileHash": "sha256-3e635583e45569362464303a130460d43d7b02001375f52fc1d953d2d59fcf0e"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/finddrama.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "finddrama",
         "internalName": "finddrama",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "short dramas",
-        "fileSize": 74425,
+        "fileSize": 75537,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/finddrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-66cd4b2ab9bf71f460c2486bf64519f4d53b025e3f8f388498080f8865a74ba1"
+        "fileHash": "sha256-f2edc1bc9cc432434a234c1b5db38c6c008a28fd820f1256d57ecd68df826384"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
@@ -107,14 +107,14 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/nunodrama.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "nunodrama",
         "internalName": "nunodrama",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "short drama catalogues with english/indonesian switch",
-        "fileSize": 75236,
+        "fileSize": 76384,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -122,7 +122,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nunodrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-af308359d06e1df1c15074f0dd2b39e3257bae1d5a17e324ecd2839299612c97"
+        "fileHash": "sha256-e466233c81a0b03396491ba852048b7045e3c4990b55fa0456d8a2dadab1b0ab"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/omnisource.cs3",
@@ -150,22 +150,24 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/reelfren.cs3",
         "status": 1,
-        "version": 1,
+        "version": 14,
         "name": "reelfren",
         "internalName": "reelfren",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "every reelfren site as its own provider",
-        "fileSize": 46632,
+        "fileSize": 46638,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
+            "TvSeries",
+            "Movie",
             "AsianDrama"
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b0343f9fccbe1083de6481524a1d4bc600d04a71a64c39fca1ec9879d3da80d5"
+        "fileHash": "sha256-5238839589911002b013c8d423ab0077db561fa1c0f4d8ff86409eaadb408486"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/stremio.cs3",
@@ -212,23 +214,24 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "wcotv",
         "internalName": "wcotv",
         "authors": [
             "dronzer11"
         ],
         "description": "cartoons, anime, series and movies from wco",
-        "fileSize": 100105,
+        "fileSize": 100884,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
             "Movie",
             "Cartoon",
-            "Anime"
+            "Anime",
+            "OVA"
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-418aa624a4b2c3283cffb1de2525085b93ee43d5947074705a46d073f6e35380"
+        "fileHash": "sha256-d8fe560c87cdf173bfe06dd8355b3e47a218a87cc005b55ded83c4a58ecb3244"
     }
 ]
