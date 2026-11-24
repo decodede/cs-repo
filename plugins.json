@@ -134,7 +134,7 @@
             "decodede"
         ],
         "description": "one home for movie and tv streams",
-        "fileSize": 189901,
+        "fileSize": 180524,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/omnisource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-93082ccd1e10c47976160ece2d899803690d1a433972c7fbdc319b1def49e702"
+        "fileHash": "sha256-5d762e0a40d964670ec0a57725579ed36c7bda97add335214dc5d8006cbce0c3"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/reelfren.cs3",
@@ -177,7 +177,7 @@
             "cookie \ud83c\udf6a"
         ],
         "description": "stremio add-ons as cloudstream sources",
-        "fileSize": 173940,
+        "fileSize": 173949,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -187,7 +187,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-05bebea93ed8d90410965038e65a2d326acd7e2e11927139eb6c460155d904da"
+        "fileHash": "sha256-fe41bdba57be7e0f2c1f454e299134ce3daf79e176a58e8881112839d8030c2c"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/teluguscreen.cs3",
