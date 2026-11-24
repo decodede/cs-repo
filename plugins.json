@@ -2,7 +2,7 @@
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/animerulz.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "animerulz",
         "internalName": "animerulz",
         "authors": [
@@ -19,12 +19,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/animerulz.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-3e635583e45569362464303a130460d43d7b02001375f52fc1d953d2d59fcf0e"
+        "fileHash": "sha256-542efb963b5ef95219dd6426ca1d85d617616de570667f98339b146f5c7a8e12"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/finddrama.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "finddrama",
         "internalName": "finddrama",
         "authors": [
@@ -39,12 +39,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/finddrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f2edc1bc9cc432434a234c1b5db38c6c008a28fd820f1256d57ecd68df826384"
+        "fileHash": "sha256-8b691c9e59e1253c2a805d5dd39800a1540aed1f5d5d80119304e7305a2a032c"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movierulz.cs3",
         "status": 1,
-        "version": 4,
+        "version": 1,
         "name": "movierulz",
         "internalName": "movierulz",
         "authors": [
@@ -60,12 +60,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movierulz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-c6e2f688df0fdfed60e3e18bddd9ed7245e9021fc95e3622c885b435cd475d3f"
+        "fileHash": "sha256-28c4c5197a5200df24636f622536a87d2df61edf9dd8bc7bf592d132f334a037"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/movieswood.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "movieswood",
         "internalName": "movieswood",
         "authors": [
@@ -81,12 +81,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/movieswood.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-9f137575a5132b7b2a717e2a6e3c91ee1db6d75c3e3de66824c414272d89803e"
+        "fileHash": "sha256-6b453518a787823742e5fe785e92d972c6ac361a87a5e12d4e76a0847e57e536"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/moviezwap.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "moviezwap",
         "internalName": "moviezwap",
         "authors": [
@@ -102,12 +102,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/moviezwap.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1319f693a0c9a02621425c22528c3e4ca177f1ca83745ccbf506622cddef4936"
+        "fileHash": "sha256-ec74cf3225abe31d82b010402ed90efaa3cfcbbd76d211ede0ecbac362aa2837"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/nunodrama.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "nunodrama",
         "internalName": "nunodrama",
         "authors": [
@@ -122,19 +122,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/nunodrama.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e466233c81a0b03396491ba852048b7045e3c4990b55fa0456d8a2dadab1b0ab"
+        "fileHash": "sha256-6d5750e5387cbbfd07a80ba5500cdf2a2d005e1d48e7302aa01c9a24043f6fbf"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/omnisource.cs3",
         "status": 1,
-        "version": 25,
+        "version": 1,
         "name": "omnisource",
         "internalName": "omnisource",
         "authors": [
             "decodede"
         ],
         "description": "one home for movie and tv streams",
-        "fileSize": 180524,
+        "fileSize": 180523,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -145,19 +145,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/omnisource.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5d762e0a40d964670ec0a57725579ed36c7bda97add335214dc5d8006cbce0c3"
+        "fileHash": "sha256-a024e435fef818864a9a99fecd365deae7c5ba4279789358eca3b14108c9fda1"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/reelfren.cs3",
         "status": 1,
-        "version": 14,
+        "version": 1,
         "name": "reelfren",
         "internalName": "reelfren",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "every reelfren site as its own provider",
-        "fileSize": 46638,
+        "fileSize": 46636,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "all",
         "tvTypes": [
@@ -167,12 +167,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5238839589911002b013c8d423ab0077db561fa1c0f4d8ff86409eaadb408486"
+        "fileHash": "sha256-39f9199950bf1a14c9149e1e27394c39d22b3082bd172ddac18f306fcac40b9e"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/stremio.cs3",
         "status": 2,
-        "version": 6,
+        "version": 1,
         "name": "stremio",
         "internalName": "stremio",
         "authors": [
@@ -189,12 +189,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-fe41bdba57be7e0f2c1f454e299134ce3daf79e176a58e8881112839d8030c2c"
+        "fileHash": "sha256-6b16099cd8f6fb904dd81b0332c6c5d52e28008aec4b009b4e39ee3205a86d69"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/teluguscreen.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "teluguscreen",
         "internalName": "teluguscreen",
         "authors": [
@@ -209,19 +209,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/teluguscreen.png",
         "apiVersion": 1,
-        "fileHash": "sha256-738c5a9fd8c5fa104aaa647afd88747c35b21aca6611732c63366481295d292c"
+        "fileHash": "sha256-a5287152745541c2fdfc717e00719d6380625ec1b1ef1671f11c943307fef574"
     },
     {
         "url": "https://raw.githubusercontent.com/decodede/cs-repo/main/wcotv.cs3",
         "status": 1,
-        "version": 2,
+        "version": 1,
         "name": "wcotv",
         "internalName": "wcotv",
         "authors": [
             "dronzer11"
         ],
         "description": "cartoons, anime, series and movies from wco",
-        "fileSize": 100884,
+        "fileSize": 100883,
         "repositoryUrl": "https://github.com/decodede/cs-repo",
         "language": "en",
         "tvTypes": [
@@ -232,6 +232,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/wcotv.jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-d8fe560c87cdf173bfe06dd8355b3e47a218a87cc005b55ded83c4a58ecb3244"
+        "fileHash": "sha256-4190445a6a8a18fac6dcb7abaafff2bcdc7b4ac96b966f414567e9c13c9c2c0e"
     }
 ]
